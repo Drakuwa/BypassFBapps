@@ -1,0 +1,1 @@
+This is a collection of a few Greasemonkey user scripts which are used to bypass the Facebook application requests on some popular .mk news aggregators, and go straight to the link/news you want. The scripts are compiled in .xpi files using the Greasemonkey [User Script Compiler](https://arantius.com/misc/greasemonkey/script-compiler.php "User Script Compiler")
